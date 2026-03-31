@@ -3,6 +3,7 @@ public class Calculadora {
     /**
      * Executa uma operação matemática básica.
      * @param operacao Tipo da operação: "soma", "subtracao", "multiplicacao", "divisao"
+     * @param operacao Tipo da operação: "divisao"
      * @param a Primeiro número
      * @param b Segundo número
      * @return Resultado da operação
